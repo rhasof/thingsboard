@@ -60,8 +60,8 @@ module.exports = {
         }),
         new CopyWebpackPlugin([
             {
-                from: './src/thingsboard.ico',
-                to: 'thingsboard.ico'
+                from: './src/hasof.ico',
+                to: 'hasof.ico'
             },
             {
                 from: './src/app/locale',
